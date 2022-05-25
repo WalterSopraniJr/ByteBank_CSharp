@@ -6,3 +6,11 @@ C:\Users\walte\source\repos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csproj.Su
 C:\Users\walte\source\repos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csproj.CoreCompileInputs.cache
 C:\Users\walte\source\repos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.exe
 C:\Users\walte\source\repos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.pdb
+C:\Users\walte\source\repos\Projeto_ByteBank\ContaCorrente_ByteBank\07-ByteBank\bin\Debug\07-ByteBank.exe.config
+C:\Users\walte\source\repos\Projeto_ByteBank\ContaCorrente_ByteBank\07-ByteBank\bin\Debug\07-ByteBank.exe
+C:\Users\walte\source\repos\Projeto_ByteBank\ContaCorrente_ByteBank\07-ByteBank\bin\Debug\07-ByteBank.pdb
+C:\Users\walte\source\repos\Projeto_ByteBank\ContaCorrente_ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\Projeto_ByteBank\ContaCorrente_ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\walte\source\repos\Projeto_ByteBank\ContaCorrente_ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\Projeto_ByteBank\ContaCorrente_ByteBank\07-ByteBank\obj\Debug\07-ByteBank.exe
+C:\Users\walte\source\repos\Projeto_ByteBank\ContaCorrente_ByteBank\07-ByteBank\obj\Debug\07-ByteBank.pdb

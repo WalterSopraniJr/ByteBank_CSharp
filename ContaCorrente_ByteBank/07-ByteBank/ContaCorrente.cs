@@ -35,7 +35,7 @@ namespace _07_ByteBank
         {
             if(agencia <= 0 || numero <= 0)
             {
-                ArgumentException excecao = new ArgumentException("");
+                ArgumentException excecao = new ArgumentException("A ag e num devem ser maiores que zero");
 
                 throw excecao;
             }

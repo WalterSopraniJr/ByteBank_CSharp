@@ -12,7 +12,12 @@ namespace _07_ByteBank
         {
             try
             {
-                Metodo();
+                ContaCorrente conta = new ContaCorrente(0,0);
+            }
+            catch (ArgumentException e)
+            {
+                Console.WriteLine("Ocorreu uma exceção do tipo ArgumentException");
+                Console.WriteLine(e.Message);
             }
             catch (DivideByZeroException e)
             {
@@ -25,13 +30,15 @@ namespace _07_ByteBank
                 Console.WriteLine("Ocorreu um erro.");
             }
 
+            Metodo();
+
             Console.WriteLine("Fim da aplicação...");
             Console.ReadLine();
         }
 
         private static void Metodo()
         {
-            TestaDivisao(0);
+            TestaDivisao(1);
         }
         private static void TestaDivisao(int divisor)
         {
