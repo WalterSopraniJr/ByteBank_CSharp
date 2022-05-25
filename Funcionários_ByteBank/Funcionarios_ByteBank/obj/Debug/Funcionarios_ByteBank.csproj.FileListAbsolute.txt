@@ -1,0 +1,16 @@
+C:\Users\walte\source\repos\Funcionarios_ByteBank\Funcionarios_ByteBank\bin\Debug\Funcionarios_ByteBank.exe.config
+C:\Users\walte\source\repos\Funcionarios_ByteBank\Funcionarios_ByteBank\bin\Debug\Funcionarios_ByteBank.exe
+C:\Users\walte\source\repos\Funcionarios_ByteBank\Funcionarios_ByteBank\bin\Debug\Funcionarios_ByteBank.pdb
+C:\Users\walte\source\repos\Funcionarios_ByteBank\Funcionarios_ByteBank\obj\Debug\Funcionarios_ByteBank.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\Funcionarios_ByteBank\Funcionarios_ByteBank\obj\Debug\Funcionarios_ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\walte\source\repos\Funcionarios_ByteBank\Funcionarios_ByteBank\obj\Debug\Funcionarios_ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\Funcionarios_ByteBank\Funcionarios_ByteBank\obj\Debug\Funcionarios_ByteBank.exe
+C:\Users\walte\source\repos\Funcionarios_ByteBank\Funcionarios_ByteBank\obj\Debug\Funcionarios_ByteBank.pdb
+C:\Users\walte\source\repos\ByteBank\Funcionarios_ByteBank\Funcionarios_ByteBank\bin\Debug\Funcionarios_ByteBank.exe.config
+C:\Users\walte\source\repos\ByteBank\Funcionarios_ByteBank\Funcionarios_ByteBank\bin\Debug\Funcionarios_ByteBank.exe
+C:\Users\walte\source\repos\ByteBank\Funcionarios_ByteBank\Funcionarios_ByteBank\bin\Debug\Funcionarios_ByteBank.pdb
+C:\Users\walte\source\repos\ByteBank\Funcionarios_ByteBank\Funcionarios_ByteBank\obj\Debug\Funcionarios_ByteBank.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\ByteBank\Funcionarios_ByteBank\Funcionarios_ByteBank\obj\Debug\Funcionarios_ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\walte\source\repos\ByteBank\Funcionarios_ByteBank\Funcionarios_ByteBank\obj\Debug\Funcionarios_ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\ByteBank\Funcionarios_ByteBank\Funcionarios_ByteBank\obj\Debug\Funcionarios_ByteBank.exe
+C:\Users\walte\source\repos\ByteBank\Funcionarios_ByteBank\Funcionarios_ByteBank\obj\Debug\Funcionarios_ByteBank.pdb

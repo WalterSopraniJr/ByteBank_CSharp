@@ -1,0 +1,8 @@
+C:\Users\walte\source\repos\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.exe.config
+C:\Users\walte\source\repos\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.exe
+C:\Users\walte\source\repos\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.pdb
+C:\Users\walte\source\repos\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\walte\source\repos\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.exe
+C:\Users\walte\source\repos\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.pdb
