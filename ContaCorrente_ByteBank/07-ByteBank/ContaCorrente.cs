@@ -35,11 +35,11 @@ namespace _07_ByteBank
         {
             if(agencia <= 0)
             {
-                throw new ArgumentException("A agência deve ser maior que 0.");
+                throw new ArgumentException("A agência deve ser maior que 0.", nameof(agencia));//após a vírgula é colocado o ParamName
             }
             if (numero <= 0)
             {
-                throw new ArgumentException("O numero deve ser maior que 0.");
+                throw new ArgumentException("O numero deve ser maior que 0.", nameof(numero));
             }
 
             Agencia = agencia;
