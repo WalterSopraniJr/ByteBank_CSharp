@@ -12,12 +12,18 @@ namespace _07_ByteBank
         {
             try
             {
-                ContaCorrente conta = new ContaCorrente(0,0);
+                ContaCorrente conta = new ContaCorrente(0,1648575);
             }
             catch (ArgumentException e)
             {
                 Console.WriteLine("Ocorreu uma exceção do tipo ArgumentException");
                 Console.WriteLine(e.Message);
+            }
+            
+
+            try
+            {
+                Metodo();
             }
             catch (DivideByZeroException e)
             {
@@ -29,8 +35,6 @@ namespace _07_ByteBank
                 Console.WriteLine(e.StackTrace);
                 Console.WriteLine("Ocorreu um erro.");
             }
-
-            Metodo();
 
             Console.WriteLine("Fim da aplicação...");
             Console.ReadLine();
