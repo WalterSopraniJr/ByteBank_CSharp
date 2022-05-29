@@ -13,6 +13,9 @@ namespace _07_ByteBank
             try
             {
                 ContaCorrente conta = new ContaCorrente(166,1648575);
+                ContaCorrente conta2 = new ContaCorrente(166, 1648576);
+
+                conta2.Transferir(-10, conta);
 
                 conta.Depositar(50);
                 Console.WriteLine(conta.Saldo);
