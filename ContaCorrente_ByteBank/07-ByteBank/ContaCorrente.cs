@@ -57,7 +57,7 @@ namespace _07_ByteBank
         {
             if (_saldo < valor)
             {
-                throw new SaldoInsuficienteException("Saldo insuficiente para o saque no valor de " + valor);
+                throw new SaldoInsuficienteException(Saldo, valor);
             }
             else
             {
