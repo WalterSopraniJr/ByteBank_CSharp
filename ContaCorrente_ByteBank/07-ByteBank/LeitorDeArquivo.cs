@@ -14,6 +14,9 @@ namespace _07_ByteBank
         public LeitorDeArquivo(string arquivo)
         {
             Arquivo = arquivo;
+
+            throw new FileNotFoundException();
+
             Console.WriteLine("Abrindo arquivo: " + arquivo);
         }
 
