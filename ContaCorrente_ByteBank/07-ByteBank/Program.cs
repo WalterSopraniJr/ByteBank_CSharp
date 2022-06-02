@@ -10,6 +10,28 @@ namespace _07_ByteBank
     {
         static void Main(string[] args)
         {
+            CarregarContas();
+
+            Console.WriteLine("Execução finalizada. Tecle enter para sair");
+            Console.ReadLine();
+        }
+
+        private static void CarregarContas()
+        {
+            LeitorDeArquivo leitor = new LeitorDeArquivo("contas.txt");
+
+            leitor.LerProximaLinha();
+            leitor.LerProximaLinha();
+            leitor.LerProximaLinha();
+            leitor.LerProximaLinha();
+            leitor.LerProximaLinha();
+
+
+            leitor.Fechar();
+        }
+
+        private static void TestaInnerException()
+        {
             try
             {
                 ContaCorrente conta1 = new ContaCorrente(4564, 789684);
@@ -26,9 +48,6 @@ namespace _07_ByteBank
                 // Console.WriteLine("Informações da INNER EXCEPTION (exceção interna):");
 
             }
-
-            Console.WriteLine("Execução finalizada. Tecle enter para sair");
-            Console.ReadLine();
         }
 
         // Teste com a cadeia de chamada:
