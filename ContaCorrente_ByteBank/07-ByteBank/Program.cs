@@ -11,7 +11,15 @@ namespace _07_ByteBank
     {
         static void Main(string[] args)
         {
-            CarregarContas();
+            try
+            {
+                CarregarContas();
+
+            }
+            catch(Exception)
+            {
+                Console.WriteLine("Catch no metodo main");
+            }
 
             Console.WriteLine("Execução finalizada. Tecle enter para sair");
             Console.ReadLine();
@@ -19,30 +27,44 @@ namespace _07_ByteBank
 
         private static void CarregarContas()
         {
-            LeitorDeArquivo leitor = null;
-
-            try
-            {
-                leitor = new LeitorDeArquivo("contas.txt");
-
+            using(LeitorDeArquivo leitor = new LeitorDeArquivo("teste.txt"))
+            { 
                 leitor.LerProximaLinha();
                 leitor.LerProximaLinha();
-                leitor.LerProximaLinha();
-                leitor.LerProximaLinha();
-                leitor.LerProximaLinha();
-
             }
-            catch(IOException)
-            {
-                Console.WriteLine("Exceção do tipo IOException capturada e tratada.");
-            }
-            finally{ //executado em caso de exceção ou não
-                if(leitor != null)
-                {
-                    leitor.Fechar();
-                }
+            
+
+
+
+
+
+
+
+            //------------------------------------------------
+
+            //LeitorDeArquivo leitor = null;
+
+            //try
+            //{
+            //    leitor = new LeitorDeArquivo("contas.txt");
+
+            //    leitor.LerProximaLinha();
+            //    leitor.LerProximaLinha();
+            //    leitor.LerProximaLinha();
+            //    leitor.LerProximaLinha();
+            //    leitor.LerProximaLinha();
+
+            //}
+            //finally{ //executado em caso de exceção ou não
+
+            //    Console.WriteLine("Executando o finally.");
+
+            //    if (leitor != null)
+            //    {
+            //        leitor.Fechar();
+            //    }
                 
-            }
+            //}
 
         }
 
