@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ByteBank.SistemaAgencia
+namespace ByteBank.Modelos
 {
-    internal class Program
+    internal class IAutenticavel
     {
-        static void Main(string[] args)
-        {
-
-        }
+        bool Autenticar(string senha);
     }
 }

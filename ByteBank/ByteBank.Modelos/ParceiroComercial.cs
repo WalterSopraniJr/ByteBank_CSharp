@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ByteBank.SistemaAgencia
+namespace ByteBank.Modelos
 {
-    internal class Program
+    internal class ParceiroComercial
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
