@@ -4,23 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Funcionarios_ByteBank.Funcionarios
+namespace ByteBank.Modelos.Funcionarios
 {
     public class Desenvolvedor : Funcionario
     {
         public Desenvolvedor(string cpf) : base(3000, cpf)
         {
-            Console.WriteLine("Criando Desenvolvedor");
         }
 
         public override void AumentarSalario()
         {
-            Salario *= 1.15;
+            Salario *= 0.15;
         }
 
-        public override double GetBonificacao()
+        internal protected override double GetBonificacao()
         {
-            return Salario * 0.10;
+            return Salario * 0.1;
         }
     }
 }

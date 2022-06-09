@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Funcionarios_ByteBank.Funcionarios
+namespace ByteBank.Modelos.Funcionarios
 {
     public class Auxiliar : Funcionario
     {
-
         public Auxiliar(string cpf) : base(2000, cpf)
         {
-            Console.WriteLine("Criando Auxiliar");
         }
 
         public override void AumentarSalario()
@@ -19,10 +17,9 @@ namespace Funcionarios_ByteBank.Funcionarios
             Salario *= 1.1;
         }
 
-        public override double GetBonificacao()
+        internal protected override double GetBonificacao()
         {
-            return Salario * 0.20;
+            return Salario * 0.2;
         }
-
     }
 }

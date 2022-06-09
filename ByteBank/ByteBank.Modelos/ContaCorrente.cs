@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _07_ByteBank
+namespace ByteBank.Modelos
 {
     public class ContaCorrente
     {
@@ -98,6 +98,5 @@ namespace _07_ByteBank
             contaDestino.Depositar(valor);
         }
     }
+
 }
-
-
