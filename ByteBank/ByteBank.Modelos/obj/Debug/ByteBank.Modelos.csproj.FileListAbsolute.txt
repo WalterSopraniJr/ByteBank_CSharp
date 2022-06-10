@@ -4,3 +4,4 @@ C:\Users\walte\source\repos\Projeto_ByteBank\ByteBank\ByteBank.Modelos\obj\Debug
 C:\Users\walte\source\repos\Projeto_ByteBank\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
 C:\Users\walte\source\repos\Projeto_ByteBank\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
 C:\Users\walte\source\repos\Projeto_ByteBank\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+C:\Users\walte\source\repos\Projeto_ByteBank\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
