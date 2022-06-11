@@ -8,3 +8,5 @@ C:\Users\walte\source\repos\Projeto_ByteBank\ByteBank.SistemaInterno\ByteBank.Si
 C:\Users\walte\source\repos\Projeto_ByteBank\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.csproj.CopyComplete
 C:\Users\walte\source\repos\Projeto_ByteBank\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.exe
 C:\Users\walte\source\repos\Projeto_ByteBank\ByteBank.SistemaInterno\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.pdb
+C:\Users\walte\source\repos\Projeto_ByteBank\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\walte\source\repos\Projeto_ByteBank\ByteBank.SistemaInterno\ByteBank.SistemaInterno\bin\Debug\ByteBank.Modelos.xml
